@@ -1,0 +1,104 @@
+{
+  "product": "Netherlands Public Holidays 2025",
+  "roadmapItems": [
+    {
+      "title": "New Year's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-01-01T12:00:00",
+      "endDate": "2025-01-01T12:00:00",
+      "source": "Government",
+      "product": "Netherlands Public Holidays 2025",
+      "style": "blue",
+      "description": "Celebration of the first day of the year"
+    },
+    {
+      "title": "Good Friday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-18T12:00:00",
+      "endDate": "2025-04-18T12:00:00",
+      "source": "Government",
+      "product": "Netherlands Public Holidays 2025",
+      "style": "purple",
+      "description": "Christian holiday commemorating the crucifixion of Jesus"
+    },
+    {
+      "title": "Easter Sunday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-20T12:00:00",
+      "endDate": "2025-04-20T12:00:00",
+      "source": "Government",
+      "product": "Netherlands Public Holidays 2025",
+      "style": "yellow",
+      "description": "Christian holiday celebrating the resurrection of Jesus"
+    },
+    {
+      "title": "King's Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-04-27T12:00:00",
+      "endDate": "2025-04-27T12:00:00",
+      "source": "Government",
+      "product": "Netherlands Public Holidays 2025",
+      "style": "orange",
+      "description": "National holiday celebrating the birthday of King Willem-Alexander"
+    },
+    {
+      "title": "Liberation Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-05T12:00:00",
+      "endDate": "2025-05-05T12:00:00",
+      "source": "Government",
+      "product": "Netherlands Public Holidays 2025",
+      "style": "teal",
+      "description": "Commemoration of the end of the German occupation during World War II"
+    },
+    {
+      "title": "Ascension Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-08T12:00:00",
+      "endDate": "2025-05-08T12:00:00",
+      "source": "Government",
+      "product": "Netherlands Public Holidays 2025",
+      "style": "green",
+      "description": "Christian holiday celebrating the ascension of Jesus into heaven"
+    },
+    {
+      "title": "Whit Sunday",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-05-19T12:00:00",
+      "endDate": "2025-05-19T12:00:00",
+      "source": "Government",
+      "product": "Netherlands Public Holidays 2025",
+      "style": "pink",
+      "description": "Christian holiday commemorating the descent of the Holy Spirit upon the apostles"
+    },
+    {
+      "title": "Christmas Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-25T12:00:00",
+      "endDate": "2025-12-25T12:00:00",
+      "source": "Government",
+      "product": "Netherlands Public Holidays 2025",
+      "style": "red",
+      "description": "Celebration of the birth of Jesus Christ"
+    },
+    {
+      "title": "Boxing Day",
+      "type": "Milestone",
+      "subType": "Public Holiday",
+      "startDate": "2025-12-26T12:00:00",
+      "endDate": "2025-12-26T12:00:00",
+      "source": "Government",
+      "product": "Netherlands Public Holidays 2025",
+      "style": "deepPurple",
+      "description": "Traditional day for giving gifts to service workers"
+    }
+  ]
+}
